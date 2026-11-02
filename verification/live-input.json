@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-15",
+  "application": "PingTurntable v2",
+  "method": "Windows Computer Use against the running native workbench, plus settings and runtime-log inspection",
+  "passed": [
+    "Opened the custom binding page and its modal recorder.",
+    "Recorded F6 for the emote wheel; settings.json immediately contained key code 117 with no modifiers.",
+    "Pressed F6 and observed the central Nice emote and caption; the session count increased to 1 and the runtime log recorded Emote 1459.",
+    "Pressed the previous Alt+T binding; the session count remained 1 and no new emote was logged.",
+    "Tried assigning Ctrl+Alt+Shift+P, which was already the pause binding; the UI reported a duplicate and kept F6. The application remained active.",
+    "Restored the original Alt+T binding using the recorder and checked settings.json.",
+    "Confirmed that the existing 96 percent scale and five user-selected emotes were preserved.",
+    "Inspected the rendered workbench, optional gold ornament and translucent caption in the actual Windows window."
+  ],
+  "separate_automated_coverage": "Duplicate validation, external ownership conflicts, rollback, pause/resume release, mouse side-button decoding, source-asset hashes, classic pixel regression and optional rendering are covered by --self-test.",
+  "not_live_automated": ["Physical Mouse 4 / Mouse 5 hardware input", "Exclusive-fullscreen overlays"]
+}

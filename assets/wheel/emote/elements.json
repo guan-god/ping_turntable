@@ -1,0 +1,167 @@
+[
+  {
+    "name": "ContextWheel_2_ButtonHover",
+    "rect": [
+      60,
+      176,
+      226,
+      281
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "ContextWheel_TR_Frame_0",
+    "rect": [
+      144,
+      2,
+      285,
+      143
+    ],
+    "enabled": true,
+    "layer": 1
+  },
+  {
+    "name": "ContextWheel_2_ButtonDefault",
+    "rect": [
+      60,
+      176,
+      226,
+      281
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "ContextWheel_0_ButtonDefault",
+    "rect": [
+      60,
+      6,
+      226,
+      111
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "ContextWheel_3_ButtonHover",
+    "rect": [
+      6,
+      60,
+      111,
+      226
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "ContextWheel_TL_Frame_0",
+    "rect": [
+      2,
+      2,
+      143,
+      143
+    ],
+    "enabled": true,
+    "layer": 1
+  },
+  {
+    "name": "ContextWheel_BL_Frame_0",
+    "rect": [
+      2,
+      144,
+      143,
+      285
+    ],
+    "enabled": true,
+    "layer": 1
+  },
+  {
+    "name": "ContextWheel_1_ButtonHover",
+    "rect": [
+      176,
+      60,
+      281,
+      226
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "ContextWheel_BR_Frame_0",
+    "rect": [
+      144,
+      144,
+      285,
+      285
+    ],
+    "enabled": true,
+    "layer": 1
+  },
+  {
+    "name": "ContextWheel_4_ButtonHover",
+    "rect": [
+      101,
+      101,
+      186,
+      186
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "ContextWheel_4_ButtonDefault",
+    "rect": [
+      101,
+      101,
+      186,
+      186
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "ContextWheel_3_ButtonDefault",
+    "rect": [
+      6,
+      60,
+      111,
+      226
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "ContextWheel_0_ButtonHover",
+    "rect": [
+      60,
+      6,
+      226,
+      111
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "ContextWheel_1_ButtonDefault",
+    "rect": [
+      176,
+      60,
+      281,
+      226
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "ContextWheel_BG_0",
+    "rect": [
+      3,
+      3,
+      283,
+      283
+    ],
+    "enabled": true,
+    "layer": 0
+  }
+]

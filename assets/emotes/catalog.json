@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1459,
+    "name": "Nice",
+    "nameZh": "干得漂亮",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/thumb_happy_up_inventory.png"
+  },
+  {
+    "id": 1492,
+    "name": "Scout-Approved",
+    "nameZh": "提莫说很好",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/champions/teemo/teemo_happy_cheers_inventory.png"
+  },
+  {
+    "id": 1030,
+    "name": "Nice Try",
+    "nameZh": "棒棒哒",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/champions/lux/lux_happy_cheerful_inventory.png"
+  },
+  {
+    "id": 1445,
+    "name": "Poro Snax",
+    "nameZh": "魄罗佳肴",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/events/snowdown/event_snowdown_poro_love_inventory.png"
+  },
+  {
+    "id": 1457,
+    "name": "Sad Kitten",
+    "nameZh": "悲伤猫咪",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/mcat_sad_tear_inventory.png"
+  },
+  {
+    "id": 1499,
+    "name": "Cheeky Poro",
+    "nameZh": "调皮魄罗",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/poro_happy_taunt_inventory.png"
+  },
+  {
+    "id": 1501,
+    "name": "Angry Kitty",
+    "nameZh": "我生气了！",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/mcat_angry_mad_inventory.png"
+  },
+  {
+    "id": 1505,
+    "name": "M'Pengu",
+    "nameZh": "企鹅先生",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/penguin_happy_greetings_inventory.png"
+  },
+  {
+    "id": 1506,
+    "name": "D'Pengu",
+    "nameZh": "陶醉企鹅",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/penguin_meme_dab_inventory.png"
+  },
+  {
+    "id": 3153,
+    "name": "Bee Happy",
+    "nameZh": "小蜜蜂 高兴",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/em_bee_happy_inventory.png"
+  },
+  {
+    "id": 3154,
+    "name": "Bee Mad",
+    "nameZh": "小蜜蜂 疯狂",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/em_bee_angry_inventory.png"
+  },
+  {
+    "id": 3155,
+    "name": "Bee Sad",
+    "nameZh": "小蜜蜂 悲伤",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/em_bee_sad_inventory.png"
+  },
+  {
+    "id": 3159,
+    "name": "Okay",
+    "nameZh": "OK",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/champions/rammus/em_rammus_ok_inventory.png"
+  },
+  {
+    "id": 3166,
+    "name": "Good Job, Buddy!",
+    "nameZh": "干得好，伙计！",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/em_poro_buddies_inventory.png"
+  },
+  {
+    "id": 3167,
+    "name": "Teamwork!",
+    "nameZh": "团队协作！",
+    "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/em_fistbump_inventory.png"
+  }
+]

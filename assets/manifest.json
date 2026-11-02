@@ -1,0 +1,484 @@
+{
+  "gameVersion": "12.21",
+  "records": [
+    {
+      "file": "assets/original/contextwheel_atlas.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/ux/menu/contextwheel_atlas.png",
+      "sha256": "c949bf09bee286084149e0e470d188c375f577128ab39d5f0524f31f5ce9c951",
+      "bytes": 120232
+    },
+    {
+      "file": "references/ping-layout.json",
+      "url": "https://raw.communitydragon.org/12.21/game/gameplay/lolpingradial.uibase.bin.json",
+      "sha256": "19acc809fc4ae60678abd51eded1a2d73013f3046cf1a905f30d1690dd020545",
+      "bytes": 21651
+    },
+    {
+      "file": "references/emote-layout.json",
+      "url": "https://raw.communitydragon.org/12.21/game/gameplay/lolemoteradial.uibase.bin.json",
+      "sha256": "08e55e99ecf033e7e091f3b4b0f2958f439a82fef5dc033b2555968efc5344e3",
+      "bytes": 18053
+    },
+    {
+      "file": "references/default-emotes.json",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json",
+      "sha256": "6dde836b7c10a8b20d91061779263f319de5829e6d349a3fd6c45de593a8e28d",
+      "bytes": 221567
+    },
+    {
+      "file": "references/zh-emotes.json",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-emotes.json",
+      "sha256": "a1c9bb4ae3d98c1eba14c09cdc8b727fa6a342bcd7de955f2d32831c06364813",
+      "bytes": 227027
+    },
+    {
+      "file": "references/upstream-license.txt",
+      "url": "https://raw.githubusercontent.com/darrenprx/lolPing/c98806ae96a4dd83ca9c12be224878057f3d3ae7/LICENSE",
+      "sha256": "65a05340f712ff189caf955bed16fef7d8db723b82202bbb453baf5b250c08ef",
+      "bytes": 1564
+    },
+    {
+      "file": "assets/fonts/BeaufortForLoL-Bold.otf",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-fe-lol-typekit/global/default/fonts/beaufort/beaufortforlol-bold.otf",
+      "sha256": "66d440d5621c6ba4711062a404233ead38a6546f18f4ea1a1aaa7ccdd5e03d29",
+      "bytes": 77588
+    },
+    {
+      "file": "assets/fonts/license.json",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-fe-lol-typekit/global/default/license.json",
+      "sha256": "9ed3e691331b275e176dd45de15ff75498d2a9de53606abdcde45eec36b738b3",
+      "bytes": 157
+    },
+    {
+      "file": "assets/pings/ping-danger.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-danger.png",
+      "sha256": "e4fd4b876fce7b5d4694dd755575aba07ecbe1d4407a6d92f2b7ca532962a27c",
+      "bytes": 6714
+    },
+    {
+      "file": "assets/pings/ping-danger-base.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-danger-base.png",
+      "sha256": "b4ed0a16ad97b0d133147a3ca325fac09c7711f34023214075103423ba3bcd52",
+      "bytes": 29568
+    },
+    {
+      "file": "assets/pings/ping-danger-base-color.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-danger-base-color.png",
+      "sha256": "1244ef81ccc7acd041f9674ee7b3822c459d89e6f48adc3164fcc979631ae042",
+      "bytes": 172
+    },
+    {
+      "file": "assets/pings/ping-comehere_02.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-comehere_02.png",
+      "sha256": "f771892565726d9caf7a924556ba840cc9bcb54fbdd182b372381a510492fd4d",
+      "bytes": 7998
+    },
+    {
+      "file": "assets/pings/ping-comehere-base.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-comehere-base.png",
+      "sha256": "c33e524ba86b7a140dc8fa12f52f4dc47162e8235a72ae260405a2d72164d77e",
+      "bytes": 16570
+    },
+    {
+      "file": "assets/pings/ping-comehere-base-color.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-comehere-base-color.png",
+      "sha256": "3f52cb71237a38b72c1d4e7647862d6ba811bdcb486782521258ca37b9cf409a",
+      "bytes": 166
+    },
+    {
+      "file": "assets/pings/ping-mia_02.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-mia_02.png",
+      "sha256": "80f274fba9f43a019e58a787919c11773901dcc0f4fee31be6f60bba67e96e92",
+      "bytes": 7980
+    },
+    {
+      "file": "assets/pings/ping-mia-base.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-mia-base.png",
+      "sha256": "c33e524ba86b7a140dc8fa12f52f4dc47162e8235a72ae260405a2d72164d77e",
+      "bytes": 16570
+    },
+    {
+      "file": "assets/pings/ping-mia-base-color.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-mia-base-color.png",
+      "sha256": "9bd877e64de874149097344dd01633d1e14b08ea392d96dfe70459833e1ffe6b",
+      "bytes": 113
+    },
+    {
+      "file": "assets/pings/ping-mia-base-outer.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-mia-base-outer.png",
+      "sha256": "82c3a0968485c1808d018859512fb5d2293b517633bf4b7821966c0998e94d1e",
+      "bytes": 53948
+    },
+    {
+      "file": "assets/pings/ping-mia-base-outer-color.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-mia-base-outer-color.png",
+      "sha256": "4d1f38fbaeeda4accaf7c938ca101db68c6d8bc6bc40c513d68e301c71b0c742",
+      "bytes": 213
+    },
+    {
+      "file": "assets/pings/ping-omw_02.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-omw_02.png",
+      "sha256": "aeb88ba33fcf3fa93ea978b2de15602f100d97dac4dd4c2adb4a61f9d62a5c91",
+      "bytes": 10868
+    },
+    {
+      "file": "assets/pings/ping-omw-arrow.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-omw-arrow.png",
+      "sha256": "3c029076c92e61dac68cbb5e73e550f4de703373c8c916e5c275b15a8c4f3289",
+      "bytes": 18310
+    },
+    {
+      "file": "assets/pings/ping-omw-base.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-omw-base.png",
+      "sha256": "005be599180862321fc079080cdcaedd0666a899f35a40dc5d6c21ac8f087ca0",
+      "bytes": 21356
+    },
+    {
+      "file": "assets/pings/ping-omw-base-color.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-omw-base-color.png",
+      "sha256": "89791c9bd6eae926962bf61b7941324a2f2e45eb224ab8dc32c8efe67b238d5d",
+      "bytes": 188
+    },
+    {
+      "file": "assets/pings/ping-caution_02.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-caution_02.png",
+      "sha256": "daa6e6387898f3fe5caf8901a46098d51acd0b59bd17d0ab835cc03b2dafc166",
+      "bytes": 8525
+    },
+    {
+      "file": "assets/pings/ping-caution-base.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-caution-base.png",
+      "sha256": "b4ed0a16ad97b0d133147a3ca325fac09c7711f34023214075103423ba3bcd52",
+      "bytes": 29568
+    },
+    {
+      "file": "assets/pings/ping-caution-base-color.png",
+      "url": "https://raw.communitydragon.org/12.21/game/assets/shared/particles/ping-caution-base-color.png",
+      "sha256": "489f35a24b01a631e306fd14d3b6e60120322ff1f30877273750b6fe3fc382e7",
+      "bytes": 194
+    },
+    {
+      "file": "assets/sounds/Danger.wav",
+      "url": "https://raw.githubusercontent.com/darrenprx/lolPing/c98806ae96a4dd83ca9c12be224878057f3d3ae7/assets/sounds/Danger.wav",
+      "sha256": "f4e81383452cfd4ad9bf6651748d3f6a33b7a73c48ff58aaebbc91b8ab34b752",
+      "bytes": 434546
+    },
+    {
+      "file": "assets/sounds/OnMyWay.wav",
+      "url": "https://raw.githubusercontent.com/darrenprx/lolPing/c98806ae96a4dd83ca9c12be224878057f3d3ae7/assets/sounds/OnMyWay.wav",
+      "sha256": "bbc00430b8a919662a9a668a68beedc944b88cd5369241481ae3eb8538851a56",
+      "bytes": 274510
+    },
+    {
+      "file": "assets/sounds/ComeHere.wav",
+      "url": "https://raw.githubusercontent.com/darrenprx/lolPing/c98806ae96a4dd83ca9c12be224878057f3d3ae7/assets/sounds/ComeHere.wav",
+      "sha256": "f6cdc7f17be6e39450e0e7cd9d418e78b3e22fd41abd9d80a84b73f779314ba9",
+      "bytes": 467922
+    },
+    {
+      "file": "assets/sounds/MIA.wav",
+      "url": "https://raw.githubusercontent.com/darrenprx/lolPing/c98806ae96a4dd83ca9c12be224878057f3d3ae7/assets/sounds/MIA.wav",
+      "sha256": "b44481bc4dadf360925097887f34a5114f42f324206ba6cfa4c0f117c9fe0498",
+      "bytes": 173086
+    },
+    {
+      "file": "assets/sounds/Base.wav",
+      "url": "https://raw.githubusercontent.com/darrenprx/lolPing/c98806ae96a4dd83ca9c12be224878057f3d3ae7/assets/sounds/Base.wav",
+      "sha256": "5faeb0973e85fc3b768afad2f88943a51289469d302cad836623eb037d0bcb24",
+      "bytes": 86164
+    },
+    {
+      "file": "assets/sounds/button.wav",
+      "url": "https://raw.githubusercontent.com/darrenprx/lolPing/c98806ae96a4dd83ca9c12be224878057f3d3ae7/assets/sounds/button.wav",
+      "sha256": "6b3ac9d25c14621a0c44aa333a5a3936f19cbbb586fe79fc450cb046fbf06e59",
+      "bytes": 139054
+    },
+    {
+      "file": "assets/emotes/1459.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/thumb_happy_up_inventory.png",
+      "sha256": "3254d31980bfe768789bf8857127ac19a7e2f9badbc500e3004b649d551fa158",
+      "bytes": 287050
+    },
+    {
+      "file": "assets/emotes/1492.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/champions/teemo/teemo_happy_cheers_inventory.png",
+      "sha256": "19f59e4148d91eb420de1d9c5f05010f2f944d0af31c561c1e7e29decbb6d968",
+      "bytes": 287050
+    },
+    {
+      "file": "assets/emotes/1030.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/champions/lux/lux_happy_cheerful_inventory.png",
+      "sha256": "6a23259165778b964b9624cc823d083bbc9febe1671b7ed6d843ae50b3992bbe",
+      "bytes": 287046
+    },
+    {
+      "file": "assets/emotes/1445.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/events/snowdown/event_snowdown_poro_love_inventory.png",
+      "sha256": "0cae0508d9bc26ad49e2939c27ab6e92757478227a710e19eda9cecf153bd869",
+      "bytes": 287089
+    },
+    {
+      "file": "assets/emotes/1457.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/mcat_sad_tear_inventory.png",
+      "sha256": "44839e224c39bbec12544fcdddacb85d1dc7cb840815d8b14fd4e36cf22f044d",
+      "bytes": 287048
+    },
+    {
+      "file": "assets/emotes/1499.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/poro_happy_taunt_inventory.png",
+      "sha256": "a5d051b577fd1637ffd84b3bfeb0f570bd1f6e638e1152ee9f0986d95db96b18",
+      "bytes": 287138
+    },
+    {
+      "file": "assets/emotes/1501.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/mcat_angry_mad_inventory.png",
+      "sha256": "fcb749f703921ff9a7aa3f43ac77b8084ffa42971ef342a71e226cbb4c8ea28b",
+      "bytes": 287050
+    },
+    {
+      "file": "assets/emotes/1505.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/penguin_happy_greetings_inventory.png",
+      "sha256": "74642a08688987e6bc1fcf57e2b901713f18b44841b87752c2c7d978e65da37d",
+      "bytes": 287078
+    },
+    {
+      "file": "assets/emotes/1506.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/penguin_meme_dab_inventory.png",
+      "sha256": "be1879ede9eac909ee4ba7fe317271fcb1073b7d934c5fe72a883478165d5d9d",
+      "bytes": 287051
+    },
+    {
+      "file": "assets/emotes/3153.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/em_bee_happy_inventory.png",
+      "sha256": "8eed3e34689cb651fceee4bdd6577c7992d36047c8999dfcb96cdb60179352fc",
+      "bytes": 287140
+    },
+    {
+      "file": "assets/emotes/3154.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/em_bee_angry_inventory.png",
+      "sha256": "b0a4c6344fa1aa3395cd0d101076a199df24c1d3df83218cc5e8bfd1bc8307df",
+      "bytes": 287052
+    },
+    {
+      "file": "assets/emotes/3155.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/em_bee_sad_inventory.png",
+      "sha256": "3b93bd60cf5dfed989f26e3bf44124704ed423e156fc1a75f32fa31f07744c48",
+      "bytes": 287138
+    },
+    {
+      "file": "assets/emotes/3159.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/champions/rammus/em_rammus_ok_inventory.png",
+      "sha256": "0af100ad43f93eec298d61ac2309e19a87cd5cdb05f97cefb6f8491248fc73b8",
+      "bytes": 287182
+    },
+    {
+      "file": "assets/emotes/3166.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/em_poro_buddies_inventory.png",
+      "sha256": "758f064eb60c0c06c2e24b4f968c0fd21fe8aa7230825598155ac8b881e727de",
+      "bytes": 287080
+    },
+    {
+      "file": "assets/emotes/3167.png",
+      "url": "https://raw.communitydragon.org/12.21/plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/flairs/em_fistbump_inventory.png",
+      "sha256": "e777f1d10583cff9fa1a5b32af46ae0a9ecf6dcd2f5b7ad95251f640b9e43768",
+      "bytes": 287078
+    }
+  ],
+  "derived": [
+    {
+      "file": "assets/wheel/emote/base.png",
+      "sha256": "4c535ae07a6fe0d8113079daf75da7d803609acbb95e98ad7408d11869af50fd",
+      "bytes": 49284
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_0_ButtonDefault.png",
+      "sha256": "d2a7072faf5d0bf0079f091a9f230e5661115d9879276d639edd5d4bc760c3f2",
+      "bytes": 12121
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_0_ButtonHover.png",
+      "sha256": "d2a7072faf5d0bf0079f091a9f230e5661115d9879276d639edd5d4bc760c3f2",
+      "bytes": 12121
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_1_ButtonDefault.png",
+      "sha256": "507dbb051e5269968200c4b32ac24d2d135da5e264cd6b428f1b3c51928ab039",
+      "bytes": 11779
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_1_ButtonHover.png",
+      "sha256": "507dbb051e5269968200c4b32ac24d2d135da5e264cd6b428f1b3c51928ab039",
+      "bytes": 11779
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_2_ButtonDefault.png",
+      "sha256": "4bd084221b39b3980ae1e3ba352edf34c6252ab557aadc3c1848ccc23cfdb9f3",
+      "bytes": 12380
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_2_ButtonHover.png",
+      "sha256": "4bd084221b39b3980ae1e3ba352edf34c6252ab557aadc3c1848ccc23cfdb9f3",
+      "bytes": 12380
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_3_ButtonDefault.png",
+      "sha256": "3b1bc4de11c18020cd0e0793d042d881dbc247a0c5b9509154d20e9091216439",
+      "bytes": 11835
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_3_ButtonHover.png",
+      "sha256": "3b1bc4de11c18020cd0e0793d042d881dbc247a0c5b9509154d20e9091216439",
+      "bytes": 11835
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_4_ButtonDefault.png",
+      "sha256": "02ac64ec1ac99d092ef2c8d54776803efd825f994ba51ef860d21769f1fb7f82",
+      "bytes": 10474
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_4_ButtonHover.png",
+      "sha256": "02ac64ec1ac99d092ef2c8d54776803efd825f994ba51ef860d21769f1fb7f82",
+      "bytes": 10474
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_BG_0.png",
+      "sha256": "cdcce5d55793fee84e7b1f4b8504261b0e6971300dbda8e89a537a4081042fa6",
+      "bytes": 17904
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_BL_Frame_0.png",
+      "sha256": "16828900247ad01151b08013c849ca44d50166a3acced4b79eb1a1edce5133b5",
+      "bytes": 13197
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_BR_Frame_0.png",
+      "sha256": "f1117ac826290cf39d6f4be68684b8800fc7a2df876d200f94b4f5e834a17f39",
+      "bytes": 13219
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_TL_Frame_0.png",
+      "sha256": "3b31523deb7be8b06bab144daa1c5d65fb615b71e2f1acb2be9ebcc59b29c9da",
+      "bytes": 13089
+    },
+    {
+      "file": "assets/wheel/emote/ContextWheel_TR_Frame_0.png",
+      "sha256": "f4855fe646698a4643ce571190d201f6fbe703fdfb5f387d594d0f6bcb540fb6",
+      "bytes": 13337
+    },
+    {
+      "file": "assets/wheel/emote/elements.json",
+      "sha256": "54d89fb6183354391bd4111c5c9f389a535ae0a0445a801499c0e8b62e73915a",
+      "bytes": 2404
+    },
+    {
+      "file": "assets/wheel/ping/base.png",
+      "sha256": "e2d8033c69ad441f6d76121df8637c08a87426d992c790cb5b966998bceb9ba9",
+      "bytes": 39945
+    },
+    {
+      "file": "assets/wheel/ping/elements.json",
+      "sha256": "d887fe9b22f5a5fe7c7ae1a6e33ff27e7be5d1638f53efecf2305f04a968033b",
+      "bytes": 3113
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_0_ButtonDefault.png",
+      "sha256": "bd9764d0670e10651b2711d035ed6e2fa7084af8000afdf122eddcea12d18bca",
+      "bytes": 13045
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_0_ButtonHover.png",
+      "sha256": "bd9764d0670e10651b2711d035ed6e2fa7084af8000afdf122eddcea12d18bca",
+      "bytes": 13045
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_0_Icon.png",
+      "sha256": "79936b9ffd9d06e05ee7b64d5d6ed2ecb83765cf012bd2179b8fa000ace27922",
+      "bytes": 1626
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_1_ButtonDefault.png",
+      "sha256": "2137076ea8310200531a94f641d7678817c84ddfe1e7addc978e64e8fc9fc25b",
+      "bytes": 12793
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_1_ButtonHover.png",
+      "sha256": "2137076ea8310200531a94f641d7678817c84ddfe1e7addc978e64e8fc9fc25b",
+      "bytes": 12793
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_1_Icon.png",
+      "sha256": "ebeacc01cbecf7106f9f488edc9f5538bba67fdf26c0a74f16e4e8abf4d1b5ab",
+      "bytes": 5407
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_2_ButtonDefault.png",
+      "sha256": "436779ae5d8574593ff81ac3d3e1b54ebedf5c5ac25daf8df17bd3e386636a56",
+      "bytes": 12953
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_2_ButtonHover.png",
+      "sha256": "436779ae5d8574593ff81ac3d3e1b54ebedf5c5ac25daf8df17bd3e386636a56",
+      "bytes": 12953
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_2_Icon.png",
+      "sha256": "32e9f93aad88afa29c39e3034dcd239b32d906563383c92a50c09ddb6b6ec92d",
+      "bytes": 3206
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_3_ButtonDefault.png",
+      "sha256": "47f9e70b1b76dcbaff9534acd3f9738bea081739a70c5b79e177d7e1ea9c0d38",
+      "bytes": 12678
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_3_ButtonHover.png",
+      "sha256": "47f9e70b1b76dcbaff9534acd3f9738bea081739a70c5b79e177d7e1ea9c0d38",
+      "bytes": 12678
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_3_Icon.png",
+      "sha256": "aef0f754c3b6081b0a22f028292119d5481fc1b6957c8c9577a2e546b0025cf1",
+      "bytes": 3204
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_4_ButtonBase.png",
+      "sha256": "d5398134509cea42cec2f38806d2c65fbde331c8a5c800dc3e237a1ae7e78018",
+      "bytes": 2980
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_4_ButtonDefault.png",
+      "sha256": "ce48ab92e3eda436d71cb3ffdd3c66ff0b659373f55e040d4350adcc341f9ff9",
+      "bytes": 3172
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_4_Frame.png",
+      "sha256": "83d2a99aaf8ab20311a3a62ac1bd83eca1dfa19e4dd0a26ce246ddb8132f081d",
+      "bytes": 2860
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_BG_0.png",
+      "sha256": "cdcce5d55793fee84e7b1f4b8504261b0e6971300dbda8e89a537a4081042fa6",
+      "bytes": 17904
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_BL_Frame_0.png",
+      "sha256": "0aaba2b32ada0772bfc809c109df22b3b947cbed686dcb20abaaa53e7c97f943",
+      "bytes": 7520
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_BR_Frame_0.png",
+      "sha256": "5a1aec574b5b46926af5d13f529ae7abc6dad41e28b9945c14fb302d023dc1a3",
+      "bytes": 7511
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_TL_Frame_0.png",
+      "sha256": "7ab54e46ce47884dbcf0759d82008acd75731cc3ea151dc3b0e35459b0eb7c03",
+      "bytes": 7332
+    },
+    {
+      "file": "assets/wheel/ping/PingWheel_TR_Frame_0.png",
+      "sha256": "b90c6970ed719b34341d230789af8ca07ebe78fee057d5c8865397b42347d18b",
+      "bytes": 7578
+    }
+  ]
+}

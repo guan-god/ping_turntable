@@ -1,0 +1,12 @@
+[
+  {
+    "name": "babel-runtime",
+    "type": "MIT",
+    "version": "6.26.0"
+  },
+  {
+    "name": "core-js",
+    "type": "MIT",
+    "version": "2.6.5"
+  }
+]

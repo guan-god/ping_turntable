@@ -1,0 +1,222 @@
+[
+  {
+    "name": "PingWheel_2_Icon",
+    "rect": [
+      124,
+      186,
+      170,
+      239
+    ],
+    "enabled": true,
+    "layer": 3
+  },
+  {
+    "name": "PingWheel_4_ButtonDefault",
+    "rect": [
+      109,
+      109,
+      177,
+      177
+    ],
+    "enabled": false,
+    "layer": 7
+  },
+  {
+    "name": "PingWheel_1_Icon",
+    "rect": [
+      198,
+      99,
+      253,
+      152
+    ],
+    "enabled": true,
+    "layer": 3
+  },
+  {
+    "name": "PingWheel_3_Icon",
+    "rect": [
+      41,
+      99,
+      73,
+      152
+    ],
+    "enabled": true,
+    "layer": 3
+  },
+  {
+    "name": "PingWheel_0_Icon",
+    "rect": [
+      130,
+      22,
+      156,
+      74
+    ],
+    "enabled": true,
+    "layer": 3
+  },
+  {
+    "name": "PingWheel_4_ButtonBase",
+    "rect": [
+      109,
+      109,
+      177,
+      177
+    ],
+    "enabled": false,
+    "layer": 6
+  },
+  {
+    "name": "PingWheel_2_ButtonDefault",
+    "rect": [
+      60,
+      166,
+      226,
+      281
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "PingWheel_3_ButtonDefault",
+    "rect": [
+      5,
+      60,
+      120,
+      226
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "PingWheel_4_Frame",
+    "rect": [
+      109,
+      109,
+      177,
+      177
+    ],
+    "enabled": true,
+    "layer": 2
+  },
+  {
+    "name": "PingWheel_1_ButtonDefault",
+    "rect": [
+      166,
+      60,
+      281,
+      226
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "PingWheel_3_ButtonHover",
+    "rect": [
+      5,
+      60,
+      120,
+      226
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "PingWheel_1_ButtonHover",
+    "rect": [
+      166,
+      60,
+      281,
+      226
+    ],
+    "enabled": false,
+    "layer": 2
+  },
+  {
+    "name": "PingWheel_BR_Frame_0",
+    "rect": [
+      144,
+      144,
+      286,
+      286
+    ],
+    "enabled": true,
+    "layer": 1
+  },
+  {
+    "name": "PingWheel_0_ButtonHover",
+    "rect": [
+      60,
+      5,
+      226,
+      120
+    ],
+    "enabled": false,
+    "layer": 3
+  },
+  {
+    "name": "PingWheel_BL_Frame_0",
+    "rect": [
+      1,
+      144,
+      143,
+      286
+    ],
+    "enabled": true,
+    "layer": 1
+  },
+  {
+    "name": "PingWheel_0_ButtonDefault",
+    "rect": [
+      60,
+      5,
+      226,
+      120
+    ],
+    "enabled": false,
+    "layer": 3
+  },
+  {
+    "name": "PingWheel_BG_0",
+    "rect": [
+      3,
+      3,
+      283,
+      283
+    ],
+    "enabled": true,
+    "layer": 0
+  },
+  {
+    "name": "PingWheel_TL_Frame_0",
+    "rect": [
+      1,
+      1,
+      143,
+      143
+    ],
+    "enabled": true,
+    "layer": 1
+  },
+  {
+    "name": "PingWheel_TR_Frame_0",
+    "rect": [
+      144,
+      1,
+      286,
+      143
+    ],
+    "enabled": true,
+    "layer": 1
+  },
+  {
+    "name": "PingWheel_2_ButtonHover",
+    "rect": [
+      60,
+      166,
+      226,
+      281
+    ],
+    "enabled": false,
+    "layer": 2
+  }
+]

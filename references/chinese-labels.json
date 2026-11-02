@@ -1,0 +1,10 @@
+{
+  "source": "https://raw.communitydragon.org/12.21/game/data/menu/fontconfig_zh_cn.txt.json",
+  "labels": {
+    "{5b2f82032b}": "危险",
+    "{52792317ff}": "正在路上",
+    "{564e7407f0}": "协助我",
+    "{4ed2d2b471}": "敌人不见了"
+  },
+  "sourceSha256": "8627c8a4cbcb1c8eb2fca378caf49d9bb2d993b5537312476616a1feb8d30541"
+}
